@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\bin\Debug\net8.0\patika_w4_patikaLibraryApp.exe
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\bin\Debug\net8.0\patika_w4_patikaLibraryApp.deps.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\bin\Debug\net8.0\patika_w4_patikaLibraryApp.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\bin\Debug\net8.0\patika_w4_patikaLibraryApp.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\bin\Debug\net8.0\patika_w4_patikaLibraryApp.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\obj\Debug\net8.0\patika_w4_patikaLibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\obj\Debug\net8.0\patika_w4_patikaLibraryApp.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\obj\Debug\net8.0\patika_w4_patikaLibraryApp.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\obj\Debug\net8.0\patika_w4_patikaLibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\obj\Debug\net8.0\patika_w4_patikaLibraryApp.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\obj\Debug\net8.0\refint\patika_w4_patikaLibraryApp.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\obj\Debug\net8.0\patika_w4_patikaLibraryApp.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\obj\Debug\net8.0\patika_w4_patikaLibraryApp.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_patikaLibraryApp\patika_w4_patikaLibraryApp\obj\Debug\net8.0\ref\patika_w4_patikaLibraryApp.dll
